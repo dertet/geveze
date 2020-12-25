@@ -1,1 +1,3 @@
-# geveze
+# Geveze
+
+## Discord Chat Bot
